@@ -1,0 +1,19 @@
+QualityFeel,HyperView_DataType,Displacement
+QualityFeel,HyperView_DataComponent,Mag
+QualityFeel,HyperView_sectionNodeId,1000000
+QualityFeel,HyperView_sectionAxes,xaxis
+QualityFeel,HyperView_sectionName,qualityFeel
+QualityFeel,HyperGraph_X-subcase,nodout
+QualityFeel,HyperGraph_X-DataType,nodout
+QualityFeel,HyperGraph_X-Request,1000000
+QualityFeel,HyperGraph_X-Component,resultant_displacement
+QualityFeel,HyperGraph_Y-subcase,rcforc
+QualityFeel,HyperGraph_Y-DataType,rcforc
+QualityFeel,HyperGraph_Y-Request,110_IMPACTOR_TO_DT-Slave
+QualityFeel,HyperGraph_Y-Component,resultant_force
+QualityFeel,HyperGraph_ver_datumTarget,0.5
+QualityFeel,HyperGraph_x_axesLabel,Displacement
+QualityFeel,HyperGraph_y_axesLabel,Force
+QualityFeel,HyperGraph_curveLabel,Force Vs Displacement
+
+
