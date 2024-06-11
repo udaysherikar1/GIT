@@ -1,0 +1,8 @@
+lst_filepath  -- E:/WorkingDir/Models/From_Sandeep/20231116_Intrusion_Data/V2251581700053209689_001/test/Porte-AR-T_0.005ms.nas E:/WorkingDir/Models/From_Sandeep/20231116_Intrusion_Data/V2251581700053209689_001/test/Porte-AR-T_0.015ms.nas E:/WorkingDir/Models/From_Sandeep/20231116_Intrusion_Data/V2251581700053209689_001/test/Porte-AR-T_0.01ms.nas E:/WorkingDir/Models/From_Sandeep/20231116_Intrusion_Data/V2251581700053209689_001/test/Porte-AR-T_0.02ms.nas E:/WorkingDir/Models/From_Sandeep/20231116_Intrusion_Data/V2251581700053209689_001/test/Porte-AR-T_00ms.nas
+str_inputfile  -- E:/WorkingDir/Models/From_Sandeep/20231116_Intrusion_Data/V2251581700053209689_001/test/Porte-AR-T_00ms.nas
+str_outputuserporfile  -- Radioss
+curveId  -- 46
+next_setid  -- 16
+input_solver  -- Nastran
+count  -- 4
+nodeListFileName  -- list4
